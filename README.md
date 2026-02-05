@@ -6,8 +6,6 @@ editor_options:
 
 ## Trunk-Based Development Strategy
 
-classroom training R and GIT hub
-
 Our team follows a **Trunk-Based Development** model to maintain high
 velocity and minimize integration pain.
 
